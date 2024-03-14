@@ -1,9 +1,9 @@
-# 상공회의소 경기인력개발원 인텔교육 1기
+# 상공회의소 경기인력개발원 인텔교육 2기
 
 ## Clone code 
 
 ```shell
-git clone --recurse-submodules https://github.com/kgkorchamhrd/intel-01.git
+git clone --recurse-submodules https://github.com/kgkorchamhrd/intel-02.git
 ```
 
 * `--recurse-submodules` option 없이 clone 한 경우, 아래를 통해 submodule update

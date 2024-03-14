@@ -6,7 +6,7 @@
 
 ### 제출방법
 
-1. 과제 제출을 위해 `인텔교육 3기 Github repository`에서 `New Issue` 생성
+1. 과제 제출을 위해 `인텔교육 2기 Github repository`에서 `New Issue` 생성
 
 2. 강사가 생성한 `Milestone`에 생성된 Issue에 추가 
 
