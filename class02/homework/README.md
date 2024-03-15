@@ -1,2 +1,0 @@
-# Homework
-first homework:umjaeshik
