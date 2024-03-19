@@ -57,7 +57,8 @@
 | 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | - | mokiya |
 | 17 LimWooSub (vvsuby) | n/a | - | - | - | - | - | mokiya|
 | 18 HanHeeJun (mylittlebluebird) | n/a | - | - | - | - | - | max5982 |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 20 HuhHwanWook (BrotherHwan) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
