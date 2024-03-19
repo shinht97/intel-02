@@ -51,7 +51,7 @@
 | 10 AhnHyojae (MobilSuper) | n/a | - | - | - | - | - | max5982 |
 | 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | - | max5982 |
 | 12 OhHeungCheon (OThinking) | n/a | - | - | - | - | - | max5982 |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 13 LeeGawon (joomong0126)| n/a | - | - | - | - | - | max5982 |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 LeeWonHee (ghkfkd1) | n/a | - | - | - | - | - | max5982 |
 | 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | - | mokiya |

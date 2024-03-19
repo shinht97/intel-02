@@ -45,7 +45,7 @@
 | 10 AhnHyojae (MobilSuper) | n/a | - | - | - | - | litcoder |
 | 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 13 LeeGawon (joomong0126) | n/a | - | - | - | - | litcoder |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 LeeWonHee (ghkfkd1) | n/a | - | - | - | - | litcoder |
 | 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | jerry-jaeseong-lee |
