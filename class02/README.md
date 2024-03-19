@@ -33,21 +33,21 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 01 KimMaro (MaRKim97) | n/a | - | - | - | - | litcoder |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 08 SongGiChan (gichan-song) | n/a | - | - | - | - | litcoder |
+| 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | litcoder |
 | 10 AhnHyojae (MobilSuper) | n/a | - | - | - | - | litcoder |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 15 LeeWonHee (ghkfkd8041) | n/a | - | - | - | - | litcoder |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
