@@ -34,9 +34,15 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 KimMaro (MaRKim97) | n/a | - | - | - | - | litcoder |
+<<<<<<< HEAD
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 03 KimJeongMoon (JEONGMOONKIM) | n/a | - | - | - | - | litcoder |
 | 04 KimJeongJin (moa000) | n/a | - | - | - | - | litcoder |
+=======
+| 02 KimWooseok (wooseokk89) | n/a | - | - | - | - | litcoder |
+| 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+>>>>>>> 02f4534 (First Commit)
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
