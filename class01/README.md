@@ -49,7 +49,7 @@
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | - | max5982 |
 | 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | - | max5982 |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | - | max5982 |
 | 12 OhHeungCheon (OThinking) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
