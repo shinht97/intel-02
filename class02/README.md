@@ -49,7 +49,7 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 LeeWonHee (ghkfkd1) | n/a | - | - | - | - | litcoder |
 | 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 17 LimWooSub (vvsuby) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 HuhHwanWook (BrotherHwan) | n/a | - | - | - | - | jerry-jaeseong-lee |
