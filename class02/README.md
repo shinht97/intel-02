@@ -51,7 +51,7 @@
 | 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 LimWooSub (vvsuby) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 19 HeoJinHo (jinhoheoo) | n/a | - | - | - | - |litcoder|
 | 20 HuhHwanWook (BrotherHwan) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
