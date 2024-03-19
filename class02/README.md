@@ -42,7 +42,6 @@
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | litcoder |
 | 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
