@@ -14,6 +14,18 @@
 * Project Github : https://github.com/joomong0126/Mini-Project.git
 * 발표자료 :   
 
+### 04_Team: KIM-OH
+Beauty GAN을 활용하여 사람 얼굴 표정으로 기분을 읽고 그에 맞는 노래 추천
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 오흥천 | Project Leader, 프로젝트 리더 |
+  | 김마로 | Project member, 프로젝트 멤버 |
+  
+
+* Project Github : https://github.com/OThinking/Mini_project.git
+* 발표자료 :   
 
 
 ### 06_Team: gichan-Team
