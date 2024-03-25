@@ -66,7 +66,7 @@ Beauty GAN을 활용하여 사람 얼굴 표정으로 기분을 읽고 그에 �
 ### 06_Team: gichan-Team
 
 
-<Facial expression recognintion>  
+<Facial expression recognition>  
 
 
 * Members
