@@ -3,7 +3,7 @@
 ### 07_Team: Lee&Lim Team
 
 
-<Facial expression recognintion>  
+<손동작을 통한 텍스트 추출>  
 
 
 
