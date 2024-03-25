@@ -61,6 +61,20 @@ Beauty GAN을 활용하여 사람 얼굴 표정으로 기분을 읽고 그에 �
 * Project Github : https://github.com/OThinking/Mini_project.git
 * 발표자료 :   
 
+### 05_Team: just_dance
+
+
+<동작인식>  
+
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 김우석 | Project Manager, 프로젝트 매니저 |
+  | 엄재식 | Project Leader, 프로젝트 리더 |
+  | 허환욱 | Project Member, 프로젝트 맴버 |
+
+* Project Github : https://github.com/BrotherHwan/LESSERAFIM.git
 
 
 ### 06_Team: gichan-Team
