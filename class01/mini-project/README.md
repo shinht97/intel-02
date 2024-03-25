@@ -14,4 +14,4 @@
 
 * Project Github : https://github.com/mylittlebluebird/balancer  
 
-* 발표자료 :   
+* 발표자료 : https://github.com/kgkorchamhrd/intel-02/tree/main/class01/mini-project/08_SHT_HHJ/presentation.pptx   

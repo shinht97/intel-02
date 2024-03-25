@@ -1,6 +1,6 @@
 # Mini Project  
 
-### Team: 신한  
+### 08_Team: 신한  
 
 
 <센싱을 통한 셀프밸런싱>  
@@ -14,6 +14,4 @@
 
 * Project Github : https://github.com/mylittlebluebird/balancer  
 
-* 발표자료 :   
-
-
+* 발표자료 : https://github.com/kgkorchamhrd/intel-02/tree/main/class01/mini-project/08_SHT_HHJ/presentation.pptx   
