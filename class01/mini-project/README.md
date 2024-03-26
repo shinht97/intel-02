@@ -78,7 +78,7 @@ Beauty GAN을 활용하여 사람 얼굴 표정으로 기분을 읽고 그에 �
 
 * Project Github : https://github.com/gichan-song/intel_miniproject
 
-* 발표자료 :   
+* 발표자료 :   https://github.com/gichan-song/intel_miniproject/blob/main/gichan.odp
 
 
 ### 07_Team: Lee&Lim Team
