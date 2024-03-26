@@ -119,14 +119,14 @@ Beauty GAN을 활용하여 사람 얼굴 표정으로 기분을 읽고 그에 �
 ### 08_Team: 신한  
 
 
-<센싱을 통한 셀프밸런싱>  
+<페이스 트래킹을 이용한 자동 짐벌 제작>  
 
 
 * Members
   | Name | Role |
   |----|----|
-  | 신현택 | Project Manager, 프로젝트 매니저 |
-  | 한희준 | Project Leader, 프로젝트 리더 |
+  | 신현택 | Project Contributor, 프로젝트 참여자 |
+  | 한희준 | Project Contributor, 프로젝트 참여자 |
 
 * Project Github : https://github.com/mylittlebluebird/balancer  
 
