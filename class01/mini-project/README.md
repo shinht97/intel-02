@@ -92,7 +92,7 @@ Paddle OCR을 이용한 이미지 내 텍스트 인식 및 번역
 
 * Project Github : https://github.com/gichan-song/intel_miniproject
 
-* 발표자료 :   
+* 발표자료 :   https://github.com/gichan-song/intel_miniproject/blob/main/gichan.odp
 
 
 ### 07_Team: Lee&Lim Team
