@@ -45,7 +45,7 @@
 | 04 KimJeongJin (moa000) | n/a | - | - | - | - | - | max5982 |
 | 05 ParkDoWol (Doyun05) | n/a | - | - | - | - | - | max5982 |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 07 Sonyounbin (youngbin-son) | n/a | - | - | - | - | - | max5982 |
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | - | max5982 |
 | 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | - | max5982 |
 | 10 AhnHyojae (MobilSuper) | n/a | - | - | - | - | - | max5982 |
