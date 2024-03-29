@@ -1,0 +1,24 @@
+Practice #1 - bert_question_answering_demo
+
+omz_downloader --list models.lst --precision FP16
+
+python3 bert_question_answering_demo.py \
+    --vocab intel/bert-small-uncased-whole-word-masking-squad-0001/vocab.txt \
+    --model intel/bert-small-uncased-whole-word-masking-squad-0001/FP16/bert-small-uncased-whole-word-masking-squad-0001.xml \
+    --input_names="input_ids,attention_mask,token_type_ids" \
+    --output_names="output_s,output_e" \
+    --input="https://en.wikipedia.org/wiki/Bert_(Sesame_Street)" \
+    -c
+
+
+Practice #2 - interactive_face_detection_demo
+
+
+Practice #3 - gaze_estimation_demo
+
+
+Practice #4 - monodepth_demo
+
+
+Practice #5 - object_detection_demo
+
