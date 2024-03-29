@@ -39,10 +39,7 @@ Practice #5 - object_detection_demo
 *실행을 위한 모델을 다운로드 하는데 시간이 많이 소요됐음
 *다운을 완료하지 못함
 -Run Code-
-./object_detection_demo -i 0 \
-  -d GPU \
-  -m intel/efficientdet-d0-tf/FP16/efficientdet-d0-tf.xml \
-  -at ssd \
-  -labels <omz_dir>/data/dataset_classes/voc_20cl_bkgr.txt
+multi_channel_object_detection_demo_yolov3 -i 0 \
+-m intel/person-vehicle-bike-detection-crossroad-yolov3-1020/FP16/person-vehicle-bike-detection-crossroad-yolov3-1020.xml -d GPU
   
   #6, 7, 8은 완료하지 못했습니다
