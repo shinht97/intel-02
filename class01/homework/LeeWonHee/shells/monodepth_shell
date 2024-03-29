@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 monodepth_demo.py -d AUTO -i 0 -m public/midasnet/FP16/midasnet.xml 
