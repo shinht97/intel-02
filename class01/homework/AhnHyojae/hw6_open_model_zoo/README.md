@@ -64,7 +64,7 @@ python3 segmentation_demo.py -i ~/다운로드/ss-honoka001.jpg -d AUTO -at segm
 segmentation_demo -d CPU -i 0 -m intel/semantic-segmentation-adas-0001/FP16/semantic-segmentation-adas-0001.xml
 ```
 
-### Camera 실행 코드 @ /segmentation_demo/python
+### Images 실행 코드 @ /segmentation_demo/python
 ```shell
 segmentation_demo -d CPU -i ~/다운로드/ss-honoka001.jpg -m intel/semantic-segmentation-adas-0001/FP16/semantic-segmentation-adas-0001.xml -loop
 ```
