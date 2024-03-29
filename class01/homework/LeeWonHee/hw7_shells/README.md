@@ -1,6 +1,6 @@
 # BERT Question Answering Demo
 
-'''
+```
 #!/bin/sh
 python3 bert_question_answering_demo.py \
     --vocab intel/bert-small-uncased-whole-word-masking-squad-0001/vocab.txt \
@@ -9,7 +9,7 @@ python3 bert_question_answering_demo.py \
     --output_names="output_s,output_e" \
     --input="https://en.wikipedia.org/wiki/Bert_(Sesame_Street)" \
     -c -d AUTO
-'''
+```
 
 
 # Interactive Face Detection Demos
