@@ -1,4 +1,4 @@
-#BERT Question Answering Demo
+# BERT Question Answering Demo
 
 '''
 #!/bin/sh
@@ -12,9 +12,9 @@ python3 bert_question_answering_demo.py \
 '''
 
 
-#Interactive Face Detection Demos
+# Interactive Face Detection Demos
 
-'''
+```
 #!/bin/sh
 
 interactive_face_detection_demo -i 0 \
@@ -25,12 +25,12 @@ interactive_face_detection_demo -i 0 \
     --mlm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml \
     --mam public/anti-spoof-mn3/FP16/anti-spoof-mn3.xml \
     -d CPU
-'''
+```
 
 
-#Gaze Estimation Demo
+# Gaze Estimation Demo
 
-'''
+```
 #!/bin/sh
 
 gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-estimation-adas-0002.xml \
@@ -38,37 +38,37 @@ gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-es
 -m_hp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml \
 -m_lm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml \
 -m_es public/open-closed-eye-0001/FP16/open-closed-eye-0001.xml 
-'''
+```
 
 
-#Monodepth Demo
+# Monodepth Demo
 
-'''
+```
 #!/bin/sh
 
 python3 monodepth_demo.py -d AUTO -i 0 -m public/midasnet/FP16/midasnet.xml 
-'''
+```
 
 
-#Multi-Channel Object Detection Yolov3 Demo
+# Multi-Channel Object Detection Yolov3 Demo
 
-'''
+```
 #!/bin/sh
 
 multi_channel_object_detection_demo_yolov3 -i 0 \
 -m intel/person-vehicle-bike-detection-crossroad-yolov3-1020/FP16/person-vehicle-bike-detection-crossroad-yolov3-1020.xml -d GPU
-'''
+```
 
 
-#Segmentation Demo
+# Segmentation Demo
 
-'''
+```
 #!/bin/sh
 
 python3 segmentation_demo.py -d AUTO -i 0 \
 -m intel/semantic-segmentation-adas-0001/FP16/semantic-segmentation-adas-0001.xml \
 -at segmentation
-'''
+```
 
 
 
