@@ -1,0 +1,4 @@
+#!/bin/sh
+
+multi_channel_object_detection_demo_yolov3 -i 0 \
+-m intel/person-vehicle-bike-detection-crossroad-yolov3-1020/FP16/person-vehicle-bike-detection-crossroad-yolov3-1020.xml -d GPU
