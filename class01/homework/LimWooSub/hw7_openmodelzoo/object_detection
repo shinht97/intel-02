@@ -1,0 +1,8 @@
+#!/bin/sh
+
+python3 object_detection_demo.py \
+  -d AUTO \
+  -i 0 \
+  -m /home/ubuntu17/workdir/open_model_zoo/demos/object_detection_demo/python/public/efficientdet-d0-tf/FP16/efficientdet-d0-tf.xml \
+  -at ssd \
+  --labels /home/ubuntu17/workdir/open_model_zoo/data/dataset_classes/voc_20cl_bkgr.txt
