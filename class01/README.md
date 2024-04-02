@@ -55,12 +55,12 @@
 | 12 OhHeungCheon (OThinking) | n/a | o | o | o | o | o | o | o | J-WBaek |
 | 13 LeeGawon (joomong0126)| n/a | o | o | o | o | o | o | o | J-WBaek |
 | 14 xxxxxxxxxx (xxxxx) | n/a | x | x | x | x | x | x | x | J-WBaek |
-| 15 LeeWonHee (ghkfkd1) | n/a | o | o | o | o | o | o | - | J-WBaek |
+| 15 LeeWonHee (ghkfkd1) | n/a | o | o | o | o | o | o | o | J-WBaek |
 | 16 LimMinWoo (lmw7060) | n/a | o | o | o | o | o | - | - | J-WBaek |
-| 17 LimWooSub (vvsuby) | n/a | o | o | o | o | o | o | - | J-WBaek|
+| 17 LimWooSub (vvsuby) | n/a | o | o | o | o | o | o | o | J-WBaek|
 | 18 HanHeeJun (mylittlebluebird) | n/a | o | o | o | - | - | - | - | J-WBaek |
 | 19 HeoJinHo (jinhoheoo) | n/a | o | o | o | o | o | o | o | J-WBaek |
-| 20 HuhHwanWook (BrotherHwan) | n/a | o | o | o | o | o | o | - | J-WBaek |
+| 20 HuhHwanWook (BrotherHwan) | n/a | o | o | o | o | o | o | o | J-WBaek |
 
 
 ### Mini Projects
