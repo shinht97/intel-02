@@ -17,10 +17,9 @@ Team: Vision amateur
     오흥천 	Text translation, 자연어 처리 및 정보 검색 Algorithm Modeling.
 
 
-
 ## High Level Design
 
-* ![alt text](<Untitled Diagram.jpg>)
+* ![alt text](./highlevel.jpg)
 
 ## Clone code
 
@@ -65,9 +64,9 @@ python demo.py -i xxx -m yyy -d zzz
 ## Output
 
 * (프로젝트 실행 화면 캡쳐)
-
-![./result.jpg](./result.jpg)
+![alt text](./screenshot.png)
 
 ## Appendix
 
-* (참고 자료 및 알아두어야할 사항들 기술)
+* OpenCV, Mediapipe
+* Transformer, Google Search
