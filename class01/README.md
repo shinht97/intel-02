@@ -41,7 +41,7 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | HW#6 | HW#7 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|------|------|----------|
-| 01 KimMaRo (MaRKim97) | n/a | - | o | o | o | o | o | o | o | J-WBaek |
+| 01 KimMaRo (MaRKim97) | n/a | o | o | o | o | o | o | o | J-WBaek |
 | 02 Kimwooseok (wooseokk89) | n/a | o | o | o | o | o | - | - | J-WBaek |
 | 03 KimJeongMoon (JEONGMOONKIM) | n/a | o | o | o | o | o | - | - | J-WBaek |
 | 04 KimJeongJin (moa000) | n/a | o | o | o | o | o | o | - | J-WBaek |
