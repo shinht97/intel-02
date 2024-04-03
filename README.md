@@ -130,5 +130,4 @@ Gesture Recognition, Image Classification & Localization, Speech 2 Text, Transla
   
 * Project Github : https://github.com/ghkfkd1/04_Travel_Helper.git
 * 발표자료 : https://github.com/ghkfkd1/04_Travel_Helper/blob/main/miniproject.odp
-=======
 
