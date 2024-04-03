@@ -23,6 +23,13 @@ Team: Vision amateur
 
 ## Clone code
 
+1. 손동작 인식 : Mediapipe를 통한 손동작 인식
+2. 영역 특정 : 포인트별 Landmark를 통한 좌표 측정 및 Crop image
+3. OCR : Pytesseract를 통한 Crop image내 Text OCR
+4. 음성인식 : WHisper 모델을 활용한 Speech 2 Text
+5. 번역모델과 연결 : 추출된 Text 정보를 Google Translator 및 Search와 연결
+6. 정보 검색 : 정보 검색 및 해당 내용 화면에 출력
+
 ```shell
 git clone https://github.com/ghkfkd1/04_Travel_Helper.git
 ```
