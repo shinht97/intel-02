@@ -115,3 +115,20 @@ Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를
 * Project Github : https://github.com/BrotherHwan/Final_project.git
 * 발표자료 : https://github.com/BrotherHwan/Final_project/blob/main/cp%26mv(final_project).pptx
 
+
+
+### Team name : Vision Amateur
+<프로젝트 요약>
+Gesture Recognition, Image Classification & Localization, Speech 2 Text, Translation 및 정보검색을 통해 VR UX 기술 구현
+* Members
+  | Name | Role |
+  |----|----|
+  | 김마로 | Project Leader, 프로젝트를 총괄 및 검수. |
+  | 이원희 | Project Manager, 진행상황 점검 및 UX Design. |
+  | 임우섭 | AI modeling, Vision 및 Gesture 인식 관련 AI Model 구현. |
+  | 오흥천 | Text translation, 자연어 처리 및 정보 검색 Algorithm Modeling. |
+  
+* Project Github : https://github.com/ghkfkd1/04_Travel_Helper.git
+* 발표자료 : https://github.com/ghkfkd1/04_Travel_Helper/blob/main/miniproject.odp
+=======
+
