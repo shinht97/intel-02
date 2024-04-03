@@ -115,6 +115,20 @@ Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를
 * 발표자료 : https://github.com/BrotherHwan/Final_project/blob/main/cp%26mv(final_project).pptx
 
 
+### Team name : Coco_Friend
+<프로젝트 요약>
+* Members
+  | Name | Role |
+  |----|----|
+  | 이동제 | Project lead, 프로젝트를 총괄한다. |
+  | 박도월 | Project manager, 프로젝트 이슈 진행상황을 관리한다. |
+  | 손영빈 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  | 허진호 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  | 이가원 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  
+* Project Github : https://github.com/jinhoheoo/coco-friend-project
+* 발표자료 : https://github.com/jinhoheoo/coco-friend-project/blob/main/03_coco_friend.pptx
+
 
 ### Team name : Vision Amateur
 <프로젝트 요약>
