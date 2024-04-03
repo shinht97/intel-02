@@ -1,0 +1,27 @@
+Bert Question Answering Demo:
+python3 bert_question_answering_demo.py \
+--vocab intel/bert-small-uncased-whole-word-masking-squad-0001/vocab.txt \
+--model intel/bert-small-uncased-whole-word-masking-squad-0001/FP16/bert-small-uncased-whole-word-masking-squad-0001.xml \
+--input_names="input_ids,attention_mask,token_type_ids" \
+--output_names="output_s,output_e" \
+--input="https://en.wikipedia.org/wiki/Bert_(Sesame_Street)" -c
+
+
+
+Gaze Estimation Demo:
+gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-estimation-adas-0002.xml \
+-m_fd intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml \
+-m_hp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml \
+-m_lm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml \
+-m_es public/open-closed-eye-0001/FP16/open-closed-eye-0001.xml 
+
+Monodepth Demo
+
+pip install tensorflow
+pip install torch
+pip install onnx
+pip install torchvision
+
+python3 monodepth_demo.py -d GPU -i 0 -m public/midasnet/FP16/midasnet.xml 
+
+

@@ -57,7 +57,7 @@ $ find ./ -iname *.bin|xargs ls -l
 
 2. [doc/project/README.md](./doc/project/README.md)을 각 팀이 생성한 repository의 main README.md로 복사 후 팀 프로젝트에 맞게 수정 활용
 
-3. 과제 제출시 `인텔교육 3기 Github repository`에 `New Issue` 생성. 생성된 Issue에 하기 내용 포함되어야 함.
+3. 과제 제출시 `인텔교육 2기 Github repository`에 `New Issue` 생성. 생성된 Issue에 하기 내용 포함되어야 함.
 
     * Team name : Project Name
     * Project 소개
@@ -87,6 +87,7 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
+
 ### Team: 100만 버튜버  
 <프로젝트 요약>
 Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를 만드는 프로그램  
@@ -99,3 +100,18 @@ Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를
 
 * Project Github : https://github.com/JEONGMOONKIM/VR_C
 * 발표자료 : https://github.com/kgkorchamhrd/intel-02/blob/main/doc/project/team1/presentation.ppt
+
+
+
+### Team name : cp&mv
+<프로젝트 요약>
+* Members
+  | Name | Role |
+  |----|----|
+  | 김우석 | Project lead, 프로젝트를 총괄한다. |
+  | 엄재식 | Project manager, 프로젝트 이슈 진행상황을 관리한다. |
+  | 허환욱 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  
+* Project Github : https://github.com/BrotherHwan/Final_project.git
+* 발표자료 : https://github.com/BrotherHwan/Final_project/blob/main/cp%26mv(final_project).pptx
+
