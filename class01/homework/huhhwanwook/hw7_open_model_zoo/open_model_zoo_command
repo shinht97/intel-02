@@ -1,0 +1,75 @@
+sudo mkdir /opt/intel
+cd ~/Downloads
+
+curl -L https://storage.openvinotoolkit.org/repositories/openvino/packages/2024.0/linux/l_openvino_toolkit_ubuntu22_2024.0.0.14509.34caeefd078_x86_64.tgz --output openvino_2024.0.0.tgz
+tar -xf openvino_2024.0.0.tgz
+
+sudo mv l_openvino_toolkit_ubuntu22_2024.0.0.14509.34caeefd078_x86_64 /opt/intel/openvino_2024.0.0
+
+cd /opt/intel/openvino_2024.0.0
+sudo -E ./install_dependencies/install_openvino_dependencies.sh
+
+cd /opt/intel
+
+sudo ln -s openvino_2024.0.0 openvino_2024
+source /opt/intel/openvino_2024.0.0/setupvars.sh
+
+
+git clone --recurse-submodules https://github.com/openvinotoolkit/open_model_zoo.git
+sudo apt install libopencv-dev
+cd open_model_zoo
+python3 -m venv omz_venv
+source omz_venv/bin/activate
+python3 -m pip install --upgrade pip
+pip install openvino openvino-dev
+pip install -r demos/requirements.txt
+
+           throw std::runtime_error("readLengthLimit must be positive");
+         }
+         try {
+             if (cap.open(std::stoi(input), cv::CAP_V4L2)) {
+             	~~~
+             	
+cd demos
+source /opt/intel/openvino_2023.1.0/setupvars.sh
+./build_demos.sh -DENABLE_PYTHON=y --build_dir=./
+
+cd demos/bert_question_answering_demo/python
+
+omz_downloader --list models.lst --precision FP16
+
+python3 bert_question_answering_demo.py \
+    --vocab intel/bert-small-uncased-whole-word-masking-squad-0001/vocab.txt \
+    --model intel/bert-small-uncased-whole-word-masking-squad-0001/FP16/bert-small-uncased-whole-word-masking-squad-0001.xml \
+    --input_names="input_ids,attention_mask,token_type_ids" \
+    --output_names="output_s,output_e" \
+    --input="https://en.wikipedia.org/wiki/Bert_(Sesame_Street)" \
+    -c -d AUTO
+    
+omz_downloader --list models.lst —precision FP16 
+
+omz_converter --list models.lst
+
+./interactive_face_detection_demo -i 0 \
+    -m intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml \
+    --mag intel/age-gender-recognition-retail-0013/FP16/age-gender-recognition-retail-0013.xml \
+    --mhp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml \
+    --mem intel/emotions-recognition-retail-0003/FP16/emotions-recognition-retail-0003.xml \
+    --mlm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml \
+    --mam public/anti-spoof-mn3/FP16/anti-spoof-mn3.xml \
+    -d CPU
+    
+python3 bert_question_answering_demo.py \
+--vocab intel/bert-small-uncased-whole-word-masking-squad-0001/vocab.txt \
+--model intel/bert-small-uncased-whole-word-masking-squad-0001/FP16/bert-small-uncased-whole-word-masking-squad-0001.xml \
+--input_names="input_ids,attention_mask,token_type_ids" \
+--output_names="output_s,output_e" \
+--input="https://en.wikipedia.org/wiki/Bert_(Sesame_Street)" -c
+
+
+gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-estimation-adas-0002.xml \
+-m_fd intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml \
+-m_hp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml \
+-m_lm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml \
+-m_es public/open-closed-eye-0001/FP16/open-closed-eye-0001.xml
+       

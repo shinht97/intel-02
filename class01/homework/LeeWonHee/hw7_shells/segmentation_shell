@@ -1,0 +1,5 @@
+#!/bin/sh
+
+python3 segmentation_demo.py -d AUTO -i 0 \
+-m intel/semantic-segmentation-adas-0001/FP16/semantic-segmentation-adas-0001.xml \
+-at segmentation
