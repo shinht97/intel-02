@@ -87,7 +87,6 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
-
 ### Team: 100만 버튜버  
 <프로젝트 요약>
 Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를 만드는 프로그램  
@@ -130,4 +129,17 @@ Gesture Recognition, Image Classification & Localization, Speech 2 Text, Transla
   
 * Project Github : https://github.com/ghkfkd1/04_Travel_Helper.git
 * 발표자료 : https://github.com/ghkfkd1/04_Travel_Helper/blob/main/miniproject.odp
+
+
+
+### Team: Xtreme World
+<프로젝트 요약> 양파전 프로스포츠에서 적절한 양의 원정석을 지정
+* Members
+  | Name | Role |
+  |----|----|
+  | 송기찬 | Head, 기본 뼈대 및 코드 제작 |
+  | 안효재 | Project Member, 트레이닝 시각 자료 수집 |
+  | 김정진 | Project Member |
+* Project Github : https://github.com/MobilSuper/team5proj.git
+* 발표자료 : 
 
