@@ -35,15 +35,15 @@
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 KimMaro (MaRKim97) | n/a | - | - | - | - | J-WBaek |
 | 02 Kimwooseok (wooseokk89) | n/a | - | - | - | - | - | J-WBaek |
-| 03 KimJeongMoon (JEONGMOONKIM) | n/a | - | - | - | - | - | J-WBaek |
-| 04 KimJeongJin (moa000) | n/a | - | - | - | - | - | J-WBaek |
+| 03 KimJeongMoon (JEONGMOONKIM) | n/a | - | - | - | - | J-WBaek |
+| 04 KimJeongJin (moa000) | n/a | - | - | - | - | J-WBaek |
 | 05 ParkDoWol (Doyun05) | n/a | o | o | - | - | J-WBaek |
 | 06 BAEBuehee (BAEgAHee) | n/a | - | - | - | - | J-WBaek |
 | 07 Sonyoungbin (youngbin-son) | n/a | - | - | - | - | J-WBaek |
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | J-WBaek |
 | 09 ShinHyunTaek (shinht97) | n/a | o | - | - | - | J-WBaek |
 | 10 AhnHyojae (MobilSuper) | n/a | o | o | - | - | J-WBaek |
-| 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | J-WBaek |
+| 11 UmJaeShik (umjaeshik) | n/a | o | o | - | - | J-WBaek |
 | 12 OhHeungCheon (OThinking) | n/a | - | - | - | - | J-WBaek |
 | 13 LeeGawon (joomong0126) | n/a | - | - | - | - | J-WBaek |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | J-WBaek |

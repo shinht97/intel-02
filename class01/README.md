@@ -51,7 +51,7 @@
 | 08 SongGiChan (gichan-song) | n/a | o | o | o | o | o | o | - | J-WBaek |
 | 09 ShinHyunTaek (shinht97) | n/a | o | o | o | o | o | o | - | J-WBaek |
 | 10 AhnHyojae (MobilSuper) | n/a | o | o | o | o | o | o | o | J-WBaek |
-| 11 UmJaeShik (umjaeshik) | n/a | o | o | o | o | o | o | - | J-WBaek |
+| 11 UmJaeShik (umjaeshik) | n/a | o | o | o | o | o | o | o | J-WBaek |
 | 12 OhHeungCheon (OThinking) | n/a | o | o | o | o | o | o | o | J-WBaek |
 | 13 LeeGawon (joomong0126)| n/a | o | o | o | o | o | o | o | J-WBaek |
 | 14 xxxxxxxxxx (xxxxx) | n/a | x | x | x | x | x | x | x | J-WBaek |
