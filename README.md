@@ -94,9 +94,9 @@ Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를
 * Members
   | Name | Role |
   |----|----|
-  | 김정문 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 신현택 | 무능 |
-  | 임민우 | Project Manager, 프로젝트의 진행 상황은 관리한다. |
+  | 김정문 | Project leader, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 신현택 | Projecy Member, 리더와 매니저의 스케쥴 관리를 잘 따라 프로젝트를 진행한다 |
+  | 임민우 | Project Manager, 프로젝트의 진행 상황을 관리한다. |
 
 * Project Github : https://github.com/JEONGMOONKIM/VR_C
 * 발표자료 : https://github.com/kgkorchamhrd/intel-02/blob/main/doc/project/team1/presentation.ppt
