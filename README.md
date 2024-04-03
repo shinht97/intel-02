@@ -86,3 +86,15 @@ $ find ./ -iname *.bin|xargs ls -l
 * Project Github : https://github.com/goodsense/project_awesome.git
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
+
+### Team name : cp&mv
+<프로젝트 요약>
+* Members
+  | Name | Role |
+  |----|----|
+  | 김우석 | Project lead, 프로젝트를 총괄한다. |
+  | 엄재식 | Project manager, 프로젝트 이슈 진행상황을 관리한다. |
+  | 허환욱 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  
+* Project Github : https://github.com/BrotherHwan/Final_project.git
+* 발표자료 : https://github.com/BrotherHwan/Final_project/blob/main/cp%26mv(final_project).pptx
